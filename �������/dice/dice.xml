@@ -1,0 +1,196 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Эмиль</Author>
+  <LastAuthor>Эмиль</LastAuthor>
+  <Created>2012-07-12T13:24:31Z</Created>
+  <Version>14.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>8760</WindowHeight>
+  <WindowWidth>13395</WindowWidth>
+  <WindowTopX>360</WindowTopX>
+  <WindowTopY>120</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:CharSet="204" x:Family="Swiss" ss:Size="11"
+    ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="dice">
+  <Table ss:ExpandedColumnCount="3" ss:ExpandedRowCount="36" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Row>
+    <Cell><Data ss:Type="String">chance_cube_blue_result_single</Data></Cell>
+    <Cell><Data ss:Type="String">%TU's chance cube rolled the color blue.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">chance_cube_red_result_single</Data></Cell>
+    <Cell><Data ss:Type="String">%TU's chance cube rolled the color red.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">configurable_dice_result_single</Data></Cell>
+    <Cell><Data ss:Type="String">%TU's %DI sided die rolled a value of %TO.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">dice_configure_msg</Data></Cell>
+    <Cell><Data ss:Type="String">You must configure the dice first.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">dice_eight_single</Data></Cell>
+    <Cell><Data ss:Type="String">eight sided die</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">dice_five_single</Data></Cell>
+    <Cell><Data ss:Type="String">five sided die</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">dice_four_single</Data></Cell>
+    <Cell><Data ss:Type="String">four sided die</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">dice_roll_four_single</Data></Cell>
+    <Cell><Data ss:Type="String">four dice</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">dice_roll_one_single</Data></Cell>
+    <Cell><Data ss:Type="String">one die</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">dice_roll_single</Data></Cell>
+    <Cell><Data ss:Type="String">Roll</Data></Cell>
+    <Cell><Data ss:Type="String">Бросок</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">dice_roll_three_single</Data></Cell>
+    <Cell><Data ss:Type="String">three dice</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">dice_roll_two_single</Data></Cell>
+    <Cell><Data ss:Type="String">two dice</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">dice_seven_single</Data></Cell>
+    <Cell><Data ss:Type="String">seven sided die</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">dice_six_single</Data></Cell>
+    <Cell><Data ss:Type="String">six sided die</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">dice_three_single</Data></Cell>
+    <Cell><Data ss:Type="String">three sided die</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">dice_two_single</Data></Cell>
+    <Cell><Data ss:Type="String">two sided die</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">four_one_hundred_single</Data></Cell>
+    <Cell><Data ss:Type="String">%TU's 4 one hundred sided dice rolled values of %TO.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">four_six_single</Data></Cell>
+    <Cell><Data ss:Type="String">%TU's 4 six sided dice rolled values of%TO.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">four_ten_single</Data></Cell>
+    <Cell><Data ss:Type="String">%TU's 4 ten sided dice rolled values of%TO.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">four_twelve_single</Data></Cell>
+    <Cell><Data ss:Type="String">%TU's 4 twelve sided dice rolled values of%TO.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">four_twenty_single</Data></Cell>
+    <Cell><Data ss:Type="String">%TU's 4 twenty sided dice rolled values of%TO.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">one_one_hundred_single</Data></Cell>
+    <Cell><Data ss:Type="String">%TU's 1 one hundred sided die rolled a value of%TO.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">one_six_single</Data></Cell>
+    <Cell><Data ss:Type="String">%TU's 1 six sided die rolled a value of%TO.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">one_ten_single</Data></Cell>
+    <Cell><Data ss:Type="String">%TU's 1 ten sided die rolled a value of%TO.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">one_twelve_single</Data></Cell>
+    <Cell><Data ss:Type="String">%TU's 1 twelve sided die rolled a value of%TO.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">one_twenty_single</Data></Cell>
+    <Cell><Data ss:Type="String">%TU's 1 twenty sided die rolled a value of%TO.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">three_one_hundred_single</Data></Cell>
+    <Cell><Data ss:Type="String">%TU's 3 one hundred sided dice rolled values of%TO.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">three_six_single</Data></Cell>
+    <Cell><Data ss:Type="String">%TU's 3 six sided dice rolled values of%TO.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">three_ten_single</Data></Cell>
+    <Cell><Data ss:Type="String">%TU's 3 ten sided dice rolled values of%TO.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">three_twelve_single</Data></Cell>
+    <Cell><Data ss:Type="String">%TU's 3 twelve sided dice rolled values of%TO.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">three_twenty_single</Data></Cell>
+    <Cell><Data ss:Type="String">%TU's 3 twenty sided dice rolled values of%TO.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">two_one_hundred_single</Data></Cell>
+    <Cell><Data ss:Type="String">%TU's 2 one hundred sided dice rolled values of%TO.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">two_six_single</Data></Cell>
+    <Cell><Data ss:Type="String">%TU's 2 six sided dice rolled values of%TO.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">two_ten_single</Data></Cell>
+    <Cell><Data ss:Type="String">%TU's 2 ten sided dice rolled values of%TO.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">two_twelve_single</Data></Cell>
+    <Cell><Data ss:Type="String">%TU's 2 twelve sided dice rolled values of%TO.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">two_twenty_single</Data></Cell>
+    <Cell><Data ss:Type="String">%TU's 2 twenty sided dice rolled values of%TO.</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Selected/>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
